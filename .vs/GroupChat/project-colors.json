@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9edcd12d-bd93-424c-9350-57ffd43a50c6": {
+      "ProjectGuid": "9edcd12d-bd93-424c-9350-57ffd43a50c6",
+      "DisplayName": "GroupChat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
